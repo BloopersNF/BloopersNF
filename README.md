@@ -10,7 +10,7 @@ Técnico em Eletroeletrônica pelo IFMT.<br>atualmente estudante de Engenharia d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BloopersNF&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BloopersNF&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=BloopersNF&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
